@@ -1,0 +1,12 @@
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\bin\Debug\CourseWorkNSTU.exe.config
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\bin\Debug\CourseWorkNSTU.exe
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\bin\Debug\CourseWorkNSTU.pdb
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\obj\Debug\CourseWorkNSTU.csproj.AssemblyReference.cache
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\obj\Debug\CourseWork.LevelForm.resources
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\obj\Debug\CourseWork.MainForm.resources
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\obj\Debug\CourseWorkNSTU.Properties.Resources.resources
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\obj\Debug\CourseWorkNSTU.csproj.GenerateResource.cache
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\obj\Debug\CourseWorkNSTU.csproj.CoreCompileInputs.cache
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\obj\Debug\CourseWorkNSTU.exe
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\obj\Debug\CourseWorkNSTU.pdb
+D:\Учебное\Курсовая\CourseWorkNSTU\CourseWorkNSTU\obj\Debug\CourseWork.ChooseLevelForm.resources
